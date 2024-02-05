@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 🔭 Explorando proyectos apasionantes y desafiantes en el mundo del backend, donde puedo aplicar mi creatividad y habilidades de programación.<br>👯  Proyectos innovadores y equipos que busquen unir fuerzas para desarrollar soluciones impactantes. ¡Me encanta la colaboración y aprender de mentes brillantes!<br>🌱 Siempre estoy en modo aprendizaje. En este momento, estoy explorando nuevas tecnologías y enfoques para mejorar mis habilidades en el desarrollo de software.<br>💬 Pregúntame  todo relacionado con el area de Sistemas / Programacion :) <br>
 
 
